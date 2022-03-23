@@ -1,0 +1,29 @@
+<inventory_menu>
+   <drug>
+       <name lang="en">ATARAX TAB</name>
+       <price>$7.80</price>
+       <generic>Hydroxyzine Hydrochloride</generic>
+       <strength>10 /mg</strength> </drug>
+   <drug>
+       <name lang="en">CALCINATE TAB</name>
+       <price>$9.10</price>
+       <generic>Calcium Carbonate</generic>
+       <strength>500 /mg</strength> </drug>
+   <drug>
+       <name lang="en">NUROFEN TAB</name>
+       <price>$8.95</price>
+       <generic>Ibuprofen</generic>
+       <strength>400 /mg</strength> </drug>
+   <drug>
+       <name lang="en">PANADOL TAB</name>
+       <name lang="en">CAPOL TAB</name>
+       <name lang="th">พารา 500</name>
+       <price>$4.50</price>
+       <generic>Paracetamol</generic>
+       <strength>500 /mg</strength> </drug>
+   <drug>
+       <name lang="en">ZYRTEC TAB</name>
+       <price>$15.95</price>
+       <generic>Cetirizine Hydrochloride</generic>
+       <strength>10 /mg</strength> </drug>
+</inventory_menu>
